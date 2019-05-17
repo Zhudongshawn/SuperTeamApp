@@ -1,0 +1,5 @@
+1.Name of the team:SuperTeam
+2.Name of the GitHub project:Introduce some exotic cooking
+3.GitHub username of the GitHub repository:Zhudongshawn, minyitan, JunyeMo, DonghuanWen
+4.Name of the Product Owner:Zhudongshawn, JunyeMo, DonghuanWen
+5.Name of the Scrum Master:Zhudongshawn, minyitan

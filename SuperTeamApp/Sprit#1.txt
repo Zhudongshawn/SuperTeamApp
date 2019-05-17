@@ -1,0 +1,5 @@
+Sprit#1
+As a food recommended member:I need to create food data.
+1.I need to create a class file
+2.I need to define the database
+3.I need to check if something is wrong
