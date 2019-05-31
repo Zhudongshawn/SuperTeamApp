@@ -12939,11 +12939,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\项目\\SuperTeamApp-master\\aaa\\SuperTeamApp\\SuperTeamApp\\SuperTeamApp.csproj",
+      "projectUniqueName": "D:\\项目\\SuperTeamApp-master\\SuperTeamApp\\SuperTeamApp\\SuperTeamApp.csproj",
       "projectName": "SuperTeamApp",
-      "projectPath": "D:\\项目\\SuperTeamApp-master\\aaa\\SuperTeamApp\\SuperTeamApp\\SuperTeamApp.csproj",
+      "projectPath": "D:\\项目\\SuperTeamApp-master\\SuperTeamApp\\SuperTeamApp\\SuperTeamApp.csproj",
       "packagesPath": "C:\\Users\\19133\\.nuget\\packages\\",
-      "outputPath": "D:\\项目\\SuperTeamApp-master\\aaa\\SuperTeamApp\\SuperTeamApp\\obj\\",
+      "outputPath": "D:\\项目\\SuperTeamApp-master\\SuperTeamApp\\SuperTeamApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

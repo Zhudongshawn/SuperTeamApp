@@ -39,32 +39,37 @@ namespace SuperTeamApp.Data
                 {
                     FoodName="Fried spider",
                     FPrice="8 cent a bunch",
-                    PictureUrl="~/image/1.jpg",
+                    PictureUrl="/image/Fried_spiders.jpg",
                 },
               new Foodprice()
                 {
                     FoodName="Fry the centipede",
                     FPrice="60 yuan a dish",
+                    PictureUrl="/image/Fry_the_centipede.jpg",
                 },
                   new Foodprice()
                 {
                     FoodName="Fried grasshoppers",
                     FPrice="About fifty yuan a kilo",
+                    PictureUrl="/image/Fried_grasshoppers.jpg",
                 },
                  new Foodprice()
                 {
                     FoodName="Stir-fried golden cicada",
                     FPrice="about fourty yuan a dish",
+                    PictureUrl="/image/stir_friedgolden_cicada.jpg",
                 },
                 new Foodprice()
                 {
                     FoodName="Fried green silkworm  ",
                     FPrice="About fourty yuan a dish",
+                    PictureUrl="/image/Fried_green_silkworm.jpg",
                 },
                 new Foodprice()
                 {
                     FoodName="Fried scorpion ",
                     FPrice="About fourty yuan a dish",
+                    PictureUrl="/image/Fried_scorpion.jpg",
                 },
             };
 
